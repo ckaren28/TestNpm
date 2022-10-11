@@ -1,0 +1,23 @@
+{
+  "name": "npmpackagetest",
+  "version": "1.0.0",
+  "description": "Building my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckaren28/TestNpm.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "Karen Chin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckaren28/TestNpm/issues"
+  },
+  "homepage": "https://github.com/ckaren28/TestNpm#readme"
+}
